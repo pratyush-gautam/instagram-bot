@@ -44,7 +44,7 @@ Instagram-Bot Repository is licensed under the MIT License
 <hr />
 
 [youtube]: https://youtube.com/poeticpratyush
-[gmail]: pratyushgautam222@gmail.com
+[gmail]: mailto:pratyushgautam222@gmail.com
 [linkedin]: https://www.linkedin.com/in/pratyush-gautam/
 
 
